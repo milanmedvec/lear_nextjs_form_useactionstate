@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "lear_nextjs_form_useactionstate",
+      "name": "learn_nextjs_form_useactionstate",
       "dependencies": {
         "next": "15.5.5",
         "react": "19.1.0",
