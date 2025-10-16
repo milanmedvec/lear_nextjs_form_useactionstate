@@ -9,4 +9,4 @@ bun run dev
 
 and open [http://localhost:3000](http://localhost:3000).
 
-![](doc/video.mov)
+https://github.com/milanmedvec/lear_nextjs_form_useactionstate/blob/main/doc/video.mov
